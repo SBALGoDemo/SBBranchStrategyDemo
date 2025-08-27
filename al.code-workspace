@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "SBBranchStrategyDemo.Test"
+    },
+    {
       "path": "SBBranchStrategyDemo"
     },
     {
