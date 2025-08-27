@@ -22,6 +22,12 @@
       "name": "Any",
       "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
       "version": "22.0.0.0"
+    },
+    {
+      "id": "da85292d-c5eb-4dec-8b75-f7b54ad70f31",
+      "name": "SBBranchStrategyDemo",
+      "publisher": "SilverBaySeafoods",
+      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
