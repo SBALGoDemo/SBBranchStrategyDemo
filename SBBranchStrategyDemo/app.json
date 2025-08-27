@@ -25,8 +25,8 @@
     }    
   ],
   "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
   "idRanges": [
     {
       "from": 87500,
