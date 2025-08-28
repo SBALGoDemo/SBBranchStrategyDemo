@@ -1,14 +1,40 @@
 {
   "folders": [
     {
-      "path": "SBBranchStrategyDemo.Test"
+      "name": ".AL-Go",
+      "path": ".AL-Go"
     },
     {
+      "name": "SBBranchStrategyDemo",
       "path": "SBBranchStrategyDemo"
     },
     {
-      "path": ".AL-Go"
+      "name": "SBBranchStrategyDemo.Test",
+      "path": "SBBranchStrategyDemo.Test"
+    },
+    {
+      "name": ".alpackages",
+      "path": ".alpackages"
     }
   ],
-  "settings": {}
+  "settings": {
+    "al.packageCachePath": [
+      "..\\.alpackages"
+    ]
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "al",
+        "request": "launch",
+        "name": "Local Sandbox (branchdemo)",
+        "server": "http://branchdemo",
+        "serverInstance": "BC",
+        "port": 7049,
+        "tenant": "default",
+        "authentication": "UserPassword"
+      }
+    ]
+  }
 }

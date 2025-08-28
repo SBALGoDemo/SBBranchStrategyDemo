@@ -12,17 +12,11 @@
   "logo": "",
   "dependencies": [
     {
-      "id": "e7e4551c-46e4-40a0-98aa-d33dc1d10bde",
-      "name": "Multi-Entity Management (NA)",
-      "publisher": "Binary Stream Software Inc.",
-      "version": "1.1.144.2"
-    },
-    {
       "id": "069f3d48-1c17-459e-bbc6-3f00693bb507",
-      "name": "Zetadocs - AP automation and bulk emailing",
       "publisher": "Equisys",
-      "version": "3.0.25170.23000"
-    }    
+      "name": "Zetadocs - AP automation and bulk emailing",
+      "version": "3.0.24080.20000"
+    }
   ],
   "screenshots": [],
   "platform": "26.0.0.0",
